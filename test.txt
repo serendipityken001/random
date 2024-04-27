@@ -3,4 +3,4 @@ ABC
 DEF
 今天天气真好！
 use 'dev'
-AND simple
+AND Simple
