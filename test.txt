@@ -2,5 +2,4 @@ Hello world!
 ABC
 DEF
 今天天气真好！
-use 'dev'
-& simple
+use 'dev' and simple
